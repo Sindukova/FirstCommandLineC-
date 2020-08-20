@@ -1,0 +1,13 @@
+C:\Users\Sindu\repos\dotNetConsole\bin\Debug\netcoreapp3.1\dotNetConsole.exe
+C:\Users\Sindu\repos\dotNetConsole\bin\Debug\netcoreapp3.1\dotNetConsole.deps.json
+C:\Users\Sindu\repos\dotNetConsole\bin\Debug\netcoreapp3.1\dotNetConsole.runtimeconfig.json
+C:\Users\Sindu\repos\dotNetConsole\bin\Debug\netcoreapp3.1\dotNetConsole.runtimeconfig.dev.json
+C:\Users\Sindu\repos\dotNetConsole\bin\Debug\netcoreapp3.1\dotNetConsole.dll
+C:\Users\Sindu\repos\dotNetConsole\bin\Debug\netcoreapp3.1\dotNetConsole.pdb
+C:\Users\Sindu\repos\dotNetConsole\obj\Debug\netcoreapp3.1\dotNetConsole.csprojAssemblyReference.cache
+C:\Users\Sindu\repos\dotNetConsole\obj\Debug\netcoreapp3.1\dotNetConsole.AssemblyInfoInputs.cache
+C:\Users\Sindu\repos\dotNetConsole\obj\Debug\netcoreapp3.1\dotNetConsole.AssemblyInfo.cs
+C:\Users\Sindu\repos\dotNetConsole\obj\Debug\netcoreapp3.1\dotNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sindu\repos\dotNetConsole\obj\Debug\netcoreapp3.1\dotNetConsole.dll
+C:\Users\Sindu\repos\dotNetConsole\obj\Debug\netcoreapp3.1\dotNetConsole.pdb
+C:\Users\Sindu\repos\dotNetConsole\obj\Debug\netcoreapp3.1\dotNetConsole.genruntimeconfig.cache
