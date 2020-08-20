@@ -6,7 +6,9 @@ namespace dotNetConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Hanna!");
+            Console.WriteLine("What is your name?");
+            string myName = Console.ReadLine();
+            Console.WriteLine("Hello " + " " + myName);
         }
     }
 }
